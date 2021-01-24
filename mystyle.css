@@ -1,0 +1,10 @@
+h1 {color: blue; }
+
+h1 {color: #F0A050; }
+
+th,td { border: dashed thick black; }
+th.important {color: red; }
+p.sample1 {border: double 10px #00FFFF}
+p.sample2 {border: inset 10px #FF00FF}
+p.sample3 {margin: 30px 30px;padding: 10px;border:
+medium solid #008000}
